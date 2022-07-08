@@ -7,3 +7,5 @@
 - 💬 Ask me if something is interesting...
 
 - 📫 How to contact me: [Telegram](https://telegram.org/) - @romigole
+
+     For students like me [GIT CHEAT SHEET👾](https://education.github.com/git-cheat-sheet-education.pdf?source=post_page---------------------------)
