@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/IgorRoma" target="_blank">Igor</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>
 <h3 align="center">PM student, Engineer from <a href="https://en.wikipedia.org/wiki/Saint_Petersburg" target="_blank">St.Petersburg</a></h3>
 
 - 🔭 I am currently working on fiber optic gyroscopes.⚓
