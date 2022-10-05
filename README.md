@@ -3,7 +3,7 @@
 <h3 align="center">PM student, Engineer from <a href="https://en.wikipedia.org/wiki/Saint_Petersburg" target="_blank">St.Petersburg</a></h3>
 
 - 🔭 I am currently working on fiber optic gyroscopes.⚓
-- 🌱 I am currently taking courses at GeekBrains majoring in Project Manager.
+- 🌱 Now I am taking courses at Geek Brains majoring in Project Manager.
 - 💬 Ask me if something is interesting...
 
 - 📫 How to contact me: [Telegram](https://telegram.org/) - @romigole
